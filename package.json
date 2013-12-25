@@ -1,6 +1,6 @@
 {
   "name": "sync-fs",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Synchronous version of the node.js fs module.",
   "main": "index.js",
   "repository": {
